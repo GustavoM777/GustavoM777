@@ -4,7 +4,7 @@ Olá! Me chamo Gustavo Mattos e sou um desenvolvedor frontend em formação! Gos
 
 Estou sempre me desafiando coim novos projetos e participando de comunidades de programação para buscar feedback de outros desenvolvedores e desenvolvedoras. Além de tentar ajudar essas pessoas com o que eu já aprendi. 😁
 
-Ah, sou multi-instumentista, gosto de música, jogos, filmes, séries, Matemática e outras nerdices. 💜
+Ah, sou multi-instumentista, gosto de música, jogos, filmes, séries, Matemática e outras nerdices. 😜
 
 <div>
    <a href="https://github.com/GustavoM777">
