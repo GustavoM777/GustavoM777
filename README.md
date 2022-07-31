@@ -30,5 +30,7 @@ Ah, sou multi-instumentista, gosto de música, jogos, filmes, séries, Matemáti
   <a href="https://www.linkedin.com/in/guh-mattos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/GustavoM777/GustavoM777/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=GustavoM777&theme=gotham&hide_border=true&area=true)
 
 </div>
