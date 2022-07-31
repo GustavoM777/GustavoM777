@@ -1,10 +1,8 @@
-## Bem-vindo(a) ao perfil do Gustavo Mattos 😁
+## Welcome to Gustavo Mattos's profile 😁
 
-Olá! Me chamo Gustavo Mattos e sou um desenvolvedor frontend em formação! Gosto MUITO da área de tecnologia.
-
-Estou sempre me desafiando coim novos projetos e participando de comunidades de programação para buscar feedback de outros desenvolvedores e desenvolvedoras. Além de tentar ajudar essas pessoas com o que eu já aprendi. 😁
-
-Ah, sou multi-instumentista, gosto de música, jogos, filmes, séries, Matemática e outras nerdices. 😜
+* 🌍  I'm based in Vitória ES - BRAZIL
+* ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/guh-mattos/)
+* 🧠  I'm learning Javascript and React JS
 
 <div>
    <a href="https://github.com/GustavoM777">
