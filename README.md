@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me siga nas redes abaixo!
+  ### Let's get connected:
  
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
