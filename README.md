@@ -33,6 +33,5 @@
  
   ![Snake animation](https://github.com/GustavoM777/GustavoM777/blob/output/github-contribution-grid-snake.svg)
   
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=GustavoM777&theme=gotham&hide_border=true&area=true)
 
 </div>
