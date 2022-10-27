@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in Vitória ES - BRAZIL
 * ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/guh-mattos/)
-* 🧠  I'm learning Javascript and React JS
+* 🧠  I'm learning Javascript, NodeJS and React JS
 
 <div>
    <a href="https://github.com/GustavoM777">
